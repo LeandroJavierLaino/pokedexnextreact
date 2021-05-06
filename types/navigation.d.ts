@@ -1,0 +1,3 @@
+type PokemonScreenParams = {
+  name: string;
+};
